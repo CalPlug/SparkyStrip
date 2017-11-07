@@ -1,0 +1,1136 @@
+300hz: 1677.24 123.21
+420hz: 1198.12 357.99
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12907.89 45.13
+180hz: 1657.16 155.45
+300hz: 1649.13 307.34
+420hz: 1142.69 183.14
+
+Current Results:
+Power: 1.58 Power_Factor: 0.55
+60hz: 12863.85 45.03
+180hz: 1639.78 156.32
+300hz: 1638.12 308.74
+420hz: 1121.31 184.74
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12896.38 44.08
+180hz: 1627.77 152.49
+300hz: 1643.15 305.05
+420hz: 1102.72 179.06
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12927.75 44.12
+180hz: 1641.05 152.80
+300hz: 1655.55 303.89
+420hz: 1117.52 177.54
+
+Current Results:
+Power: 1.26 Power_Factor: 0.44
+60hz: 12847.43 nan
+180hz: 1703.17 nan
+300hz: 1637.02 nan
+420hz: 1140.08 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12626.48 224.37
+180hz: 1576.62 337.22
+300hz: 1719.76 127.41
+420hz: 1112.83 5.27
+
+Voltage Results:
+60hz: 151807.78 0.55
+180hz: 11128.93 195.71
+300hz: 1475.19 300.76
+420hz: 2726.13 293.86
+Failed to find zero, restarting identification
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12964.71 225.51
+180hz: 1668.12 338.22
+300hz: 1800.90 133.10
+420hz: 1300.82 9.23
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12900.04 nan
+180hz: 1704.08 nan
+300hz: 1803.36 nan
+420hz: 1338.07 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12874.89 44.96
+180hz: 1716.91 155.57
+300hz: 1839.17 309.30
+420hz: 1363.36 184.91
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12915.28 44.48
+180hz: 1689.62 152.18
+300hz: 1839.15 305.57
+420hz: 1369.04 179.22
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12865.04 44.97
+180hz: 1693.48 155.77
+300hz: 1858.07 309.30
+420hz: 1396.52 184.23
+
+Current Results:
+Power: 1.42 Power_Factor: 0.50
+60hz: 12919.10 44.37
+180hz: 1737.62 152.77
+300hz: 1870.85 305.63
+420hz: 1410.11 178.45
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12906.82 224.59
+180hz: 1742.54 334.95
+300hz: 1863.38 127.48
+420hz: 1394.54 0.19
+
+Current Results:
+Power: 1.58 Power_Factor: 0.69
+60hz: 12862.58 43.91
+180hz: 1722.00 152.94
+300hz: 1851.05 304.40
+420hz: 1425.23 176.90
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12929.05 nan
+180hz: 1703.55 nan
+300hz: 1859.96 nan
+420hz: 1411.84 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12925.57 44.52
+180hz: 1696.39 153.85
+300hz: 1854.87 305.42
+420hz: 1412.41 179.96
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 13042.07 nan
+180hz: 1690.55 nan
+300hz: 1852.68 nan
+420hz: 1385.02 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12918.28 45.26
+180hz: 1702.75 158.64
+300hz: 1840.30 313.28
+420hz: 1390.43 190.24
+
+Current Results:
+Power: 1.26 Power_Factor: 0.55
+60hz: 12927.08 224.57
+180hz: 1690.63 333.42
+300hz: 1818.96 125.08
+420hz: 1392.93 359.02
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12923.86 nan
+180hz: 1693.26 nan
+300hz: 1848.64 nan
+420hz: 1388.72 nan
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12935.77 44.66
+180hz: 1704.62 153.00
+300hz: 1802.79 304.32
+420hz: 1348.33 176.67
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12917.77 225.30
+180hz: 1697.96 334.98
+300hz: 1803.56 128.83
+420hz: 1328.10 2.08
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 12875.79 225.53
+180hz: 1672.34 337.79
+300hz: 1811.41 132.29
+420hz: 1338.83 7.85
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 12842.56 45.24
+180hz: 1694.37 157.80
+300hz: 1819.40 311.23
+420hz: 1328.83 187.30
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12786.19 45.61
+180hz: 1664.78 158.42
+300hz: 1827.56 312.90
+420hz: 1339.27 189.91
+
+Current Results:
+Power: 1.42 Power_Factor: 0.47
+60hz: 12904.70 44.58
+180hz: 1700.95 153.57
+300hz: 1800.04 304.62
+420hz: 1355.85 178.52
+
+Current Results:
+Power: 1.42 Power_Factor: 0.44
+60hz: 12886.83 171.28
+180hz: 1691.24 283.13
+300hz: 1813.98 77.17
+420hz: 1353.78 312.97
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12862.49 175.51
+180hz: 1678.94 286.85
+300hz: 1829.76 80.65
+420hz: 1343.18 315.30
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12866.37 45.33
+180hz: 1711.76 156.02
+300hz: 1816.18 309.97
+420hz: 1349.84 184.32
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12887.17 225.76
+180hz: 1670.11 338.23
+300hz: 1815.40 133.36
+420hz: 1337.99 9.87
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12886.74 224.64
+180hz: 1677.36 334.34
+300hz: 1789.51 127.53
+420hz: 1293.55 0.90
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12970.23 224.95
+180hz: 1704.39 336.44
+300hz: 1784.87 128.19
+420hz: 1304.38 2.22
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12954.85 224.55
+180hz: 1682.04 333.69
+300hz: 1777.81 126.93
+420hz: 1290.82 0.59
+
+Current Results:
+Power: 1.42 Power_Factor: 0.50
+60hz: 12902.83 340.92
+180hz: 1622.65 93.99
+300hz: 1821.50 249.17
+420hz: 1279.38 125.31
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12892.96 nan
+180hz: 1653.18 nan
+300hz: 1791.86 nan
+420hz: 1255.52 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12896.36 44.08
+180hz: 1674.52 152.07
+300hz: 1770.55 304.18
+420hz: 1261.04 176.63
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12885.20 45.12
+180hz: 1680.15 157.56
+300hz: 1756.29 310.43
+420hz: 1250.55 186.54
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12862.27 45.49
+180hz: 1677.98 156.28
+300hz: 1760.96 309.97
+420hz: 1252.81 185.88
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12913.20 225.78
+180hz: 1680.81 337.19
+300hz: 1756.63 130.34
+420hz: 1276.40 4.54
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12949.27 nan
+180hz: 1668.22 nan
+300hz: 1763.35 nan
+420hz: 1254.92 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12932.38 45.08
+180hz: 1697.20 155.77
+300hz: 1747.56 308.34
+420hz: 1268.82 182.83
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12869.62 45.33
+180hz: 1663.83 158.17
+300hz: 1742.23 311.83
+420hz: 1263.68 187.72
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12876.42 44.57
+180hz: 1703.22 153.82
+300hz: 1723.79 305.73
+420hz: 1247.33 179.82
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 12887.41 224.33
+180hz: 1684.04 333.54
+300hz: 1735.40 125.18
+420hz: 1255.44 358.11
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12878.03 45.61
+180hz: 1625.16 157.21
+300hz: 1747.75 311.89
+420hz: 1240.69 188.46
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12920.77 43.97
+180hz: 1670.92 151.67
+300hz: 1745.78 303.08
+420hz: 1268.42 176.36
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12864.70 45.64
+180hz: 1688.07 156.69
+300hz: 1728.05 309.64
+420hz: 1271.20 185.12
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12861.53 44.69
+180hz: 1644.11 154.80
+300hz: 1733.96 306.81
+420hz: 1254.39 181.20
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12848.46 44.55
+180hz: 1655.19 153.94
+300hz: 1711.15 307.24
+420hz: 1251.86 181.91
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12911.61 225.70
+180hz: 1654.72 337.36
+300hz: 1710.42 131.06
+420hz: 1206.86 6.60
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12895.88 44.14
+180hz: 1623.39 154.58
+300hz: 1670.93 306.03
+420hz: 1150.29 179.76
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12858.73 224.85
+180hz: 1658.99 333.97
+300hz: 1606.35 125.11
+420hz: 1133.96 358.99
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12849.36 45.76
+180hz: 1629.25 159.35
+300hz: 1605.22 315.66
+420hz: 1097.66 193.03
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 12878.76 224.79
+180hz: 1620.44 334.75
+300hz: 1638.57 124.99
+420hz: 1098.61 358.82
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12960.67 45.16
+180hz: 1609.31 157.70
+300hz: 1648.10 311.60
+420hz: 1116.26 187.43
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12878.51 224.13
+180hz: 1645.43 334.73
+300hz: 1640.51 126.74
+420hz: 1125.98 1.21
+
+Voltage Results:
+60hz: 130269.78 104.61
+180hz: 3949.05 62.53
+300hz: 6135.41 260.10
+420hz: 4156.93 290.47
+Failed to find zero, restarting identification
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 13012.31 225.19
+180hz: 1741.40 336.14
+300hz: 1952.89 129.51
+420hz: 1667.45 6.78
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12894.33 231.47
+180hz: 1729.41 343.25
+300hz: 1939.67 136.29
+420hz: 1653.10 14.36
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12892.20 225.30
+180hz: 1769.29 336.13
+300hz: 1936.78 128.56
+420hz: 1676.02 4.93
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 13005.67 226.03
+180hz: 1736.30 339.27
+300hz: 1942.08 133.01
+420hz: 1631.35 11.90
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12942.37 225.90
+180hz: 1748.34 338.35
+300hz: 1940.33 131.66
+420hz: 1648.59 10.09
+
+Current Results:
+Power: 1.42 Power_Factor: 0.50
+60hz: 12898.43 43.98
+180hz: 1743.88 153.18
+300hz: 1952.06 303.50
+420hz: 1657.94 178.23
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12890.10 224.71
+180hz: 1754.97 334.95
+300hz: 1931.12 125.80
+420hz: 1650.81 2.26
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12936.59 225.33
+180hz: 1739.49 337.96
+300hz: 1925.67 130.03
+420hz: 1634.64 8.11
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 13052.91 224.75
+180hz: 1747.27 335.48
+300hz: 1942.90 128.26
+420hz: 1654.04 5.32
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12947.12 44.95
+180hz: 1747.96 154.85
+300hz: 1914.09 306.05
+420hz: 1646.04 182.79
+
+Current Results:
+Power: 1.58 Power_Factor: 0.69
+60hz: 13027.37 45.44
+180hz: 1715.56 158.16
+300hz: 1951.75 310.75
+420hz: 1645.34 189.43
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12926.53 nan
+180hz: 1721.44 nan
+300hz: 1948.72 nan
+420hz: 1642.39 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 13031.60 44.19
+180hz: 1751.93 153.76
+300hz: 1937.85 304.69
+420hz: 1648.52 179.66
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12987.38 nan
+180hz: 1750.58 nan
+300hz: 1934.23 nan
+420hz: 1647.70 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.50
+60hz: 12900.48 45.96
+180hz: 1752.65 157.56
+300hz: 1928.75 310.83
+420hz: 1627.62 189.71
+
+Current Results:
+Power: 1.42 Power_Factor: 0.50
+60hz: 13017.71 nan
+180hz: 1725.76 nan
+300hz: 1956.65 nan
+420hz: 1623.30 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12933.35 45.17
+180hz: 1721.42 157.30
+300hz: 1960.30 311.29
+420hz: 1622.17 189.98
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12920.71 225.98
+180hz: 1762.33 338.32
+300hz: 1930.72 132.44
+420hz: 1623.20 11.10
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12946.71 44.39
+180hz: 1733.96 155.79
+300hz: 1944.90 307.13
+420hz: 1626.69 184.58
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12946.83 nan
+180hz: 1714.63 nan
+300hz: 1939.03 nan
+420hz: 1643.14 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12940.11 nan
+180hz: 1755.98 nan
+300hz: 1930.96 nan
+420hz: 1646.29 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12976.84 45.24
+180hz: 1730.13 158.79
+300hz: 1916.33 312.73
+420hz: 1646.27 191.42
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 13002.61 nan
+180hz: 1715.08 nan
+300hz: 1944.88 nan
+420hz: 1643.82 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12978.90 45.13
+180hz: 1706.25 158.01
+300hz: 1951.72 310.86
+420hz: 1644.09 189.29
+
+Current Results:
+Power: 1.42 Power_Factor: 0.50
+60hz: 12952.26 46.01
+180hz: 1783.82 157.27
+300hz: 1933.27 310.38
+420hz: 1647.90 187.75
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12970.37 45.63
+180hz: 1757.97 157.78
+300hz: 1937.02 311.47
+420hz: 1646.43 190.04
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 13045.14 332.74
+180hz: 1758.63 83.95
+300hz: 1939.07 238.53
+420hz: 1668.67 115.33
+
+Current Results:
+Power: 1.26 Power_Factor: 0.55
+60hz: 12908.80 45.48
+180hz: 1758.86 156.39
+300hz: 1948.91 309.47
+420hz: 1668.60 186.67
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12843.73 45.33
+180hz: 1738.21 156.32
+300hz: 1969.45 307.84
+420hz: 1665.14 184.67
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12999.25 224.39
+180hz: 1781.24 334.19
+300hz: 1936.11 125.86
+420hz: 1662.22 1.85
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 13047.62 224.35
+180hz: 1746.07 333.26
+300hz: 1935.73 123.87
+420hz: 1636.89 359.73
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12957.32 225.13
+180hz: 1746.37 338.02
+300hz: 1961.16 131.52
+420hz: 1666.64 9.01
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12936.23 nan
+180hz: 1770.62 nan
+300hz: 1947.02 nan
+420hz: 1670.26 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12989.25 169.61
+180hz: 1747.64 279.74
+300hz: 1944.54 71.01
+420hz: 1651.73 307.09
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12972.88 224.50
+180hz: 1766.29 335.12
+300hz: 1926.31 127.25
+420hz: 1673.03 4.27
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12958.10 nan
+180hz: 1762.03 nan
+300hz: 1949.40 nan
+420hz: 1662.77 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12899.41 45.23
+180hz: 1750.25 156.47
+300hz: 1928.76 309.37
+420hz: 1664.51 186.21
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 13016.45 44.78
+180hz: 1783.82 153.74
+300hz: 1906.50 304.33
+420hz: 1678.10 180.99
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12916.67 45.67
+180hz: 1796.88 157.08
+300hz: 1908.96 309.96
+420hz: 1688.58 188.15
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12951.41 45.83
+180hz: 1769.33 158.36
+300hz: 1905.74 312.14
+420hz: 1680.06 191.68
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12945.33 225.13
+180hz: 1739.23 337.02
+300hz: 1902.73 128.97
+420hz: 1655.03 7.43
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12979.86 45.82
+180hz: 1740.29 160.19
+300hz: 1919.28 314.35
+420hz: 1672.48 194.62
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12960.00 nan
+180hz: 1752.74 nan
+300hz: 1935.24 nan
+420hz: 1673.37 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12949.09 44.16
+180hz: 1757.26 154.06
+300hz: 1949.17 306.37
+420hz: 1666.99 180.86
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12964.28 45.26
+180hz: 1761.84 154.94
+300hz: 1949.84 307.62
+420hz: 1658.90 182.90
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12944.24 45.02
+180hz: 1758.41 155.50
+300hz: 1926.85 306.58
+420hz: 1677.52 182.10
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12973.20 44.64
+180hz: 1760.25 156.04
+300hz: 1919.04 308.63
+420hz: 1678.55 185.80
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12961.39 45.65
+180hz: 1750.72 159.15
+300hz: 1918.59 313.07
+420hz: 1674.89 192.97
+
+Current Results:
+Power: 1.58 Power_Factor: 0.69
+60hz: 12958.49 225.15
+180hz: 1736.30 336.26
+300hz: 1931.15 128.44
+420hz: 1673.32 5.90
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 13031.09 224.96
+180hz: 1743.02 335.66
+300hz: 1910.96 127.88
+420hz: 1681.20 4.19
+
+Voltage Results:
+60hz: 149575.34 3.56
+180hz: 20723.40 244.87
+300hz: 7530.94 273.16
+420hz: 6227.62 292.33
+Failed to find zero, restarting identification
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12894.19 nan
+180hz: 1666.90 nan
+300hz: 1589.07 nan
+420hz: 1138.33 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12880.12 224.97
+180hz: 1638.80 336.34
+300hz: 1588.54 128.06
+420hz: 1131.77 5.30
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12976.69 225.17
+180hz: 1620.78 338.47
+300hz: 1572.94 129.52
+420hz: 1116.94 8.11
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12864.71 44.88
+180hz: 1639.32 157.68
+300hz: 1585.82 311.12
+420hz: 1131.85 189.17
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12848.16 224.45
+180hz: 1646.04 335.69
+300hz: 1618.41 126.63
+420hz: 1188.76 2.87
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12844.52 44.81
+180hz: 1630.04 157.13
+300hz: 1672.37 310.16
+420hz: 1215.78 187.80
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12894.93 nan
+180hz: 1653.53 nan
+300hz: 1654.82 nan
+420hz: 1228.78 nan
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12921.53 224.59
+180hz: 1654.49 336.09
+300hz: 1669.50 128.25
+420hz: 1237.79 5.88
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12833.75 355.07
+180hz: 1677.57 107.83
+300hz: 1650.14 259.15
+420hz: 1258.53 137.65
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12864.60 45.64
+180hz: 1701.91 158.10
+300hz: 1654.66 311.38
+420hz: 1266.82 189.34
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12779.64 nan
+180hz: 1712.56 nan
+300hz: 1661.79 nan
+420hz: 1269.19 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12978.76 45.12
+180hz: 1722.33 156.12
+300hz: 1674.58 307.17
+420hz: 1303.09 184.11
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12870.11 nan
+180hz: 1697.89 nan
+300hz: 1681.41 nan
+420hz: 1285.94 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.50
+60hz: 12946.19 225.47
+180hz: 1690.45 337.76
+300hz: 1700.85 130.09
+420hz: 1304.21 8.09
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12935.64 226.16
+180hz: 1699.82 339.83
+300hz: 1698.12 135.20
+420hz: 1307.70 14.76
+
+Current Results:
+Power: 1.58 Power_Factor: 0.55
+60hz: 12834.42 45.59
+180hz: 1720.73 156.45
+300hz: 1706.84 308.61
+420hz: 1360.51 186.56
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12890.00 44.15
+180hz: 1695.10 154.86
+300hz: 1735.22 305.48
+420hz: 1353.29 181.79
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12854.75 226.03
+180hz: 1705.21 340.79
+300hz: 1750.45 135.69
+420hz: 1377.75 14.98
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12929.91 224.55
+180hz: 1701.05 336.77
+300hz: 1722.23 128.61
+420hz: 1351.50 5.66
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 12904.38 45.22
+180hz: 1687.10 157.31
+300hz: 1739.21 310.09
+420hz: 1365.99 187.54
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 12959.64 223.50
+180hz: 1694.65 338.94
+300hz: 1738.19 134.61
+420hz: 1329.57 15.17
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12976.23 224.47
+180hz: 1706.76 337.04
+300hz: 1723.71 129.05
+420hz: 1368.56 7.02
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12896.13 45.12
+180hz: 1704.80 156.86
+300hz: 1709.70 309.64
+420hz: 1349.16 187.42
+
+Current Results:
+Power: 1.26 Power_Factor: 0.47
+60hz: 12904.85 45.85
+180hz: 1699.41 157.66
+300hz: 1702.94 310.37
+420hz: 1339.75 187.77
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12848.87 223.97
+180hz: 1617.73 336.98
+300hz: 1783.36 126.99
+420hz: 1281.39 1.75
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12943.96 nan
+180hz: 1671.61 nan
+300hz: 1703.79 nan
+420hz: 1327.15 nan
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12861.17 45.87
+180hz: 1703.57 159.09
+300hz: 1744.98 313.20
+420hz: 1338.79 192.57
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12895.48 45.23
+180hz: 1689.86 158.47
+300hz: 1727.29 311.64
+420hz: 1336.97 189.34
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12906.53 nan
+180hz: 1678.89 nan
+300hz: 1730.69 nan
+420hz: 1320.98 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12943.97 nan
+180hz: 1684.48 nan
+300hz: 1711.62 nan
+420hz: 1325.85 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12964.08 44.43
+180hz: 1674.45 156.12
+300hz: 1734.31 307.39
+420hz: 1340.31 184.74
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12923.31 224.66
+180hz: 1688.10 336.56
+300hz: 1729.43 128.77
+420hz: 1335.73 5.34
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12965.42 225.79
+180hz: 1702.58 336.28
+300hz: 1715.88 128.38
+420hz: 1332.49 4.30
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12886.73 43.53
+180hz: 1672.86 156.02
+300hz: 1733.47 310.33
+420hz: 1323.01 188.54
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12899.81 44.65
+180hz: 1696.06 156.20
+300hz: 1670.25 308.26
+420hz: 1297.23 185.24
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12852.59 44.13
+180hz: 1670.71 156.21
+300hz: 1678.49 306.94
+420hz: 1271.51 184.02
+
+Current Results:
+Power: 1.42 Power_Factor: 0.47
+60hz: 12869.73 44.82
+180hz: 1689.01 155.74
+300hz: 1652.58 307.81
+420hz: 1241.62 183.66
+
+Current Results:
+Power: 1.58 Power_Factor: 0.69
+60hz: 12866.93 nan
+180hz: 1675.25 nan
+300hz: 1656.71 nan
+420hz: 1227.72 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12896.10 157.25
+180hz: 1641.00 269.45
+300hz: 1626.33 62.96
+420hz: 1218.33 300.79
+
+Current Results:
+Power: 1.58 Power_Factor: 0.59
+60hz: 12844.76 44.55
+180hz: 1656.13 155.87
+300hz: 1637.81 306.08
+420hz: 1205.32 182.31
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12837.14 225.14
+180hz: 1668.58 337.43
+300hz: 1663.26 130.39
+420hz: 1234.04 8.71
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12863.68 45.94
+180hz: 1628.43 160.08
+300hz: 1649.75 314.69
+420hz: 1240.47 195.06
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12927.60 43.52
+180hz: 1684.66 155.88
+300hz: 1673.07 308.19
+420hz: 1258.07 186.63
+
+Current Results:
+Power: 1.58 Power_Factor: 0.69
+60hz: 12943.50 45.29
+180hz: 1678.00 157.30
+300hz: 1691.36 308.83
+420hz: 1287.03 187.72
+
+Current Results:
+Power: 1.26 Power_Factor: 0.51
+60hz: 12845.61 45.13
+180hz: 1707.59 157.31
+300hz: 1671.55 308.14
+420hz: 1291.60 187.24
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12908.34 nan
+180hz: 1696.24 nan
+300hz: 1700.58 nan
+420hz: 1307.58 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12969.23 226.18
+180hz: 1701.82 340.36
+300hz: 1689.32 133.98
+420hz: 1320.76 13.86
+
+Current Results:
+Power: 1.42 Power_Factor: 0.62
+60hz: 12879.05 45.96
+180hz: 1663.90 159.70
+300hz: 1712.99 313.98
+420hz: 1299.45 193.93
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12858.74 nan
+180hz: 1681.70 nan
+300hz: 1804.51 nan
+420hz: 1304.40 nan
+
+Current Results:
+Power: 1.42 Power_Factor: 0.53
+60hz: 12889.66 44.48
+180hz: 1678.92 158.20
+300hz: 1742.13 309.31
+420hz: 1341.50 187.48
+
+Voltage Results:
+60hz: 148881.52 2.57
+180hz: 13407.92 222.05
+300hz: 3686.31 276.44
+420hz: 4026.95 294.19
+Failed to find zero, restarting identification
+
+Current Results:
+Power: 1.58 Power_Factor: 0.64
+60hz: 12824.45 224.39
+180hz: 1651.29 334.30
+300hz: 1510.85 124.23
+420hz: 1009.37 359.77
+
+Current Results:
+Power: 1.42 Power_Factor: 0.57
+60hz: 12726.82 44.25
+180hz: 1557.28 158.11
+300hz: 1587.59 308.31
+420hz: 995.93 183.73

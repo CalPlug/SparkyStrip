@@ -1,0 +1,25 @@
+clc
+clear
+
+%% Noise Removal %%
+
+Current_FAN = xlsread('C:\Users\owner\Desktop\CalPlug\Current vs Time poster\FAN.xlsx','B19:B1018');
+Current_TV = xlsread('C:\Users\owner\Desktop\CalPlug\Current vs Time poster\TV.xlsx','B19:B1018');
+Current_HP = xlsread('C:\Users\owner\Desktop\CalPlug\Current vs Time poster\HP.xlsx','B19:B1018');
+Current_STB = xlsread('C:\Users\owner\Desktop\CalPlug\Current vs Time poster\STB.xlsx','B19:B1018');
+
+Current_TV_FFT = xlsread('C:\Users\owner\Desktop\CalPlug\Current vs Time poster\TV.xlsx','E19:E1018');
+Current_HP_FFT = xlsread('C:\Users\owner\Desktop\CalPlug\Current vs Time poster\HP.xlsx','E19:E1018');
+Current_STB_FFT = xlsread('C:\Users\owner\Desktop\CalPlug\Current vs Time poster\STB.xlsx','E19:E1018');
+
+Input_0 = Current_HP;
+Input_1 = Current_TV;
+Input_2 = Current_STB;
+Input_3 = Current_FAN;
+
+Starting = 4;
+
+dlmwrite('Input0.txt', Input_0(Starting:Starting+511), '');
+dlmwrite('Input1.txt', Input_1(Starting:Starting+511), '');
+dlmwrite('Input2.txt', Input_2(Starting:Starting+511), '');
+dlmwrite('Input3.txt', Input_3(Starting:Starting+511), '');

@@ -1,0 +1,5 @@
+Todo:
+-split the various parts into their own files.
+-Cleanup the existing files - especially AD_CHIP.h - make functions that set things instead of write_int() and such
+-separate data acquisition and processing
+-move processing into own file which can be ran on the Arduino or on a computer/pi with the data

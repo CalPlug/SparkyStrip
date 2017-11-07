@@ -1,0 +1,25 @@
+<!-- Date: 8/28/2014						-->
+<!-- Name: Linyi Xia						-->
+<!-- Proj: CIEE Smart Home Smart Energy		-->
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+* {
+	margin: 0;
+}
+
+html, body {
+	height: 100%;
+	font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    background-image: url("comingsoon.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.footer {
+	position: fixed;
+	bottom: 2em;
+	height: 3em;
+	right: 1em;
+	font-size: 80%;
+}

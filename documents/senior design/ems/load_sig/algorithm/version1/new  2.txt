@@ -1,0 +1,42 @@
+else
+	{
+	// Searching algorythm
+		if( max_value[CH] > MaxVoltThres)
+		{
+			if((normalized_FFT_180[CH] > FFT180Thres) && (normalized_FFT_300[CH] > FFT300Thres))
+			{
+				if(rise_times[CH] < RiseSamplesThres)
+				{
+					printf("\nChannel #%d is an HP Laptop\n\n", CH);
+					boolean[CH] = 1;
+				}
+			}
+			else
+			{
+				if(rise_times[CH] > RiseSamplesThres)
+				{
+					boolean[CH] = 1;
+					printf("\nChannel #%d is a Fan\n\n", CH);
+				}
+			}
+		}
+		else
+		{
+			if((normalized_FFT_180[CH] > FFT180Thres) && (normalized_FFT_300[CH] > FFT300Thres))
+			{
+				if(rise_times[CH] < RiseSamplesThres)
+				{
+					boolean[CH] = 1;
+					printf("\nChannel #%d is a Set-Top-Box\n\n", CH);
+				}
+			}
+			else
+			{
+				if(rise_times[CH] > RiseSamplesThres)
+				{
+					printf("\nChannel #%d is a TV\n\n", CH);
+					boolean[CH] = 1;
+				}
+			}
+		}
+	}

@@ -1,0 +1,15 @@
+1.  Install the IAR workbench
+
+2.  Open the Workspace as shown in the Dropbox.
+
+3.  After making sure all the settings are correct in IAR workbench (it should have instructions in the Manual
+on the software section in the manuals, in the folder EMS\Load_sig\References\ZigbeeCC2530), copy
+and past the "TX" or "RX" code into the pertest file.
+
+4.  Download and debug the TX on one micro controller and RX on the other.
+
+5.  On the TX board, connect pin 3 (in P1) to the current clamp in series with a 1.65V offset, and
+the ground to the ground of the current clamp.
+
+6.  On the RX board, connect the board to a RS232 to a USB device to a computer.  Run either
+the "Display1/Display2" with processing.  It should output any of the connected devices within 8 seconds.

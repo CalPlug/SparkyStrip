@@ -1,0 +1,80 @@
+<!-- Bedroom.html 		-->
+<!DOCTYPE html>
+<html>
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <meta charset="”utf-8”">
+        <title>Smart Power for the Smart Home: Plug Load Report</title>
+        <meta name="”description”" content="”An" awesome="" html5="" page="" you="" built="" from="" scratch!”="">
+        <meta name="”author”" content="”Udemy”">
+        <link rel="stylesheet" type="text/css" href="submenustyle.css">
+        <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'></head>
+   
+        <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1','packages':['corechart']}]}"></script>
+
+        
+
+<body>
+	
+	<div id = "grad">
+		
+		<div id ="pagetitle" >
+			<h1 class = "R_title"> <img class = "L_title" src = "bedroom.svg" alt = "roomlogo"> Bedroom </h1></div>
+			
+		<div id ="left">
+
+			<b>LAMP</b><br>
+			CHARGER<br>
+			TV<br>
+			<p><a href= "home.html"> <img id="homebutton" src = "home.svg" alt="homebutton"> </a></p></div>
+			
+		<div id="mid">
+		<p>DATA goes here</p>
+		<div id="chart_div" style="width: 300px; height: 300px;"></div>
+
+		<script src="html5-canvas-bar-graph.js"></script>
+		<script>(function () {
+		
+			function createCanvas(divName) {
+				
+				var div = document.getElementById(divName);
+				var canvas = document.createElement('canvas');
+				div.appendChild(canvas);
+				if (typeof G_vmlCanvasManager != 'undefined') {
+					canvas = G_vmlCanvasManager.initElement(canvas);
+				}	
+				var ctx = canvas.getContext("2d");
+				return ctx;
+			}
+			
+			var ctx = createCanvas("graphDiv1");
+			
+			var graph = new BarGraph(ctx);
+			graph.maxValue = 30;
+			graph.margin = 2;
+			graph.colors = ["#49a0d8", "#d353a0", "#ffc527", "#df4c27"];
+			graph.xAxisLabelArr = ["North", "East", "West", "South"];
+			setInterval(function () {
+				graph.update([Math.random() * 30, Math.random() * 30, Math.random() * 30, Math.random() * 30]);
+			}, 1000);
+			
+			var ctx2 = createCanvas("graphDiv2");
+			
+			var graph2 = new BarGraph(ctx2);
+			graph2.margin = 2;
+			graph2.width = 450;
+			graph2.height = 150;
+			graph2.xAxisLabelArr = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"];
+			setInterval(function () {
+				graph2.update([Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20, Math.random() * 20]);
+			}, 1500);
+
+		}());</script></canvas></div></div></body>
+
+<footer>
+    <div class = "footer">
+
+        <p><a href= "http://calplug.org/about/contact%C3%A2%E2%82%AC%C2%9D">About</a> <a href="mailto:linyix@calplug.org">Contact</a></p>
+        <p>Published: August 2014</p> </div></footer>
+
+</html>
